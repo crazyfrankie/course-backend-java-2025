@@ -1952,9 +1952,3 @@ System.out.println("WebApp initialized: ServletContext = "sce.getServletContext(
 - 上传成功后,显示上传成功的信息,并显示上传的文件列表。
 
 > 作业还是有点难度的,大家应该是需要在网上查资料才能做出来。
-
-**作业提交邮箱: ** **huangyuhuai@lanshan.email**
-
-**这次的作业提交希望 附有截图,提交** **github地址** 
-
-**关于git也是一个程序员的基本技能(虽然我也还不会呢),希望大家抽时间可以学习一下**

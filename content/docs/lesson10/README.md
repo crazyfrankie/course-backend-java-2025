@@ -5,7 +5,7 @@ weight: 10
 description: >
   完整的企业级Java项目开发
 ---
-# 蓝山Java第十节课(Linux基本操作及项目部署)
+# Java第十节课(Linux基本操作及项目部署)
 
 ## Linux
 
