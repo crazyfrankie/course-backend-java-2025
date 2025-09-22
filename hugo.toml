@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://java.crazyfrank.top/'
 languageCode = 'zh-cn'
 title = 'Java 后端开发教程'
 contentDir = "content"
